@@ -60,7 +60,7 @@ Publications
 <i>Preprint.</i> [<a href="https://arxiv.org/pdf/2510.07888" style="color:#9B0145;">arXiv</a>]<br>
 **Learning Efficient Communication Protocols for Multi-Agent Reinforcement Learning**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Jiadong Yu, and Zixin Zhong. <br>
-<i>IEEE IEEE Transactions on Machine Learning in Communications and Networking, Jul, 2026.</i> [<a href="https://arxiv.org/pdf/2511.09171" style="color:#9B0145;">arXiv</a>]<br>
+<i>IEEE Transactions on Machine Learning in Communications and Networking, Jul, 2026.</i> [<a href="https://arxiv.org/pdf/2511.09171" style="color:#9B0145;">arXiv</a>]<br>
 
 Patent
 ======
